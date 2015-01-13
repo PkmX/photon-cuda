@@ -5,9 +5,9 @@ Project for Parallel Programming (2014 Fall)
 ## Dependencies
 
 * cmake >= 2.8
-* boost.log
-* cuda >= 7.5
-* C++14 compiler (gcc 4.9 / clang 3.5)
+* boost.log >= 1.57.0
+* cuda >= 6.5
+* C++14 compiler (gcc >= 4.9 / clang >= 3.5)
 
 ## Building
 
@@ -17,3 +17,4 @@ Project for Parallel Programming (2014 Fall)
 ## Running
 
     ./photon-cuda
+    ${IMAGE_VIEWER} output.tga
